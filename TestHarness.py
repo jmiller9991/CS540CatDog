@@ -12,7 +12,7 @@ from keras.optimizers import SGD
 from keras.preprocessing.image import ImageDataGenerator
 import PIL
 
-#Requires python 3.6 and tf 2.0
+#Requires python 3.6
 
 # define cnn model
 def define_model():
